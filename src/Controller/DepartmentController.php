@@ -11,13 +11,13 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class DepartmentController extends AbstractController
 {
-    #[Route('/Department', name: 'Department')]
+    #[Route('/{slug}', name: 'Department')]
     public function department(Request $request): Response {
     $department = new Department();
     $form = $this->createForm(DepartmentFormType::Class, $department);
     $form->handleRequest($request);
 
-    if ($form->isSubmitted(); == $form->isValid()); {
+    if ($form->isSubmitted() &&  $form->isValid()) {
      dd($form->getData());
     }
 
