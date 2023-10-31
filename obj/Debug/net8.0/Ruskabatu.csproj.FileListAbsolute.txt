@@ -1,0 +1,15 @@
+C:\Projects\Ruskabatu\bin\Debug\net8.0\Ruskabatu.exe
+C:\Projects\Ruskabatu\bin\Debug\net8.0\Ruskabatu.deps.json
+C:\Projects\Ruskabatu\bin\Debug\net8.0\Ruskabatu.runtimeconfig.json
+C:\Projects\Ruskabatu\bin\Debug\net8.0\Ruskabatu.dll
+C:\Projects\Ruskabatu\bin\Debug\net8.0\Ruskabatu.pdb
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.AssemblyInfoInputs.cache
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.AssemblyInfo.cs
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.csproj.CoreCompileInputs.cache
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.sourcelink.json
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.dll
+C:\Projects\Ruskabatu\obj\Debug\net8.0\refint\Ruskabatu.dll
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.pdb
+C:\Projects\Ruskabatu\obj\Debug\net8.0\Ruskabatu.genruntimeconfig.cache
+C:\Projects\Ruskabatu\obj\Debug\net8.0\ref\Ruskabatu.dll
